@@ -1,4 +1,4 @@
-# <img src="bellabeat_logo.png" width="24"/> Bellabeat Smart Wellness Report  
+# <img src="bellabeat_logo.png" width="30"/> Bellabeat Smart Wellness Report  
 ### Phase 5: Share — Turning Data Into a Story  
 *Prepared by: Vibhanshu Dubey*  
 
@@ -12,42 +12,42 @@ This creates a perfect opening for **Bellabeat** to guide women toward **balance
 ---
 
 ## 🚶‍♀️ Movement Patterns  
-![](Bellabeat_charts/step_by_step.png)  
+![](../Bellabeat_charts/step_by_step.png)  
 Users are **most active on Saturday, Tuesday, and Monday**, but activity dips **midweek and Sundays**.  
 **➡ Insight:** Motivation fades midweek — Bellabeat can boost engagement with **midweek reminders and friendly challenges**.
 
 ---
 
 ## 🔥 Activity & Calories  
-![](Bellabeat_charts/step_vs_calories.png)
+![](../Bellabeat_charts/step_vs_calories.png)
 A **moderate positive correlation (r = 0.59)** shows that **more steps = more calories burned**.  
 **➡ Insight:** Real-time calorie feedback and progress visuals can help users **see and celebrate small wins**.
 
 ---
 
 ## 💤 Sleep Balance  
-![](Bellabeat_charts/sleep_vs_step.png)
+![](../Bellabeat_charts/sleep_vs_step.png)
 A **weak negative correlation (r = -0.19)** suggests active users sleep slightly less.  
 **➡ Insight:** Bellabeat can promote **“rest days” and mindfulness tips** to support full-body wellness.
 
 ---
 
 ## 🪑 Daily Activity Distribution  
-![](Bellabeat_charts/activity_distribution.png)
+![](../Bellabeat_charts/activity_distribution.png)
 Over **80% of the day is sedentary** — users move, but not enough.  
 **➡ Insight:** Introduce **micro-movement goals** like “2-minute stretch breaks” or gentle nudges to stand and move.
 
 ---
 
 ## ⚖️ BMI Overview  
-![](Bellabeat_charts/bmi_categories.png)
+![](../Bellabeat_charts/bmi_categories.png)
 Average **BMI = 25.2** → **50.7% normal**, **47.8% overweight**, **1.5% obese**.  
 **➡ Insight:** Focus on **healthy habit coaching**, not just activity tracking — balance fitness, rest, and nutrition.
 
 ---
 
 ## 🔗 Health Correlations  
-![](Bellabeat_charts/health_correlation.png)
+![](../Bellabeat_charts/health_correlation.png)
 - Steps ↔ Calories → **r = 0.59 (positive)**  
 - Sleep ↔ Steps → **r = -0.19 (weak negative)**  
 **➡ Insight:** Users chase activity but lack recovery balance — Bellabeat can become the **bridge between movement and mindfulness**.
@@ -75,3 +75,4 @@ Average **BMI = 25.2** → **50.7% normal**, **47.8% overweight**, **1.5% obese*
 **Prepared for:** Bellabeat Stakeholders  
 **By:** Vibhanshu Dubey   
 **Date:** 02/11/2025  
+
