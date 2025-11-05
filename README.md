@@ -21,6 +21,7 @@ Using **Python for exploration, cleaning, and visualization**, the study transla
 **Reports & Files:**  
 - [Jupyter Notebook (.ipynb)](./notebook/Bellabeat_Case_Study_03_NOV.ipynb)  
 - [Share Phase Report (Markdown)](./report/Bellabeat_report.md)
+- [Share Phase Report (Presentation)](./report/Bellabeat_Presentation.pptx)
 ---
 
 ## Business Problem
